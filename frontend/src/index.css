@@ -1,0 +1,206 @@
+/* 
+  index.css
+  Global Tailwind import
+
+  This single import enables every Tailwind v4 utility.
+  No custom config needed unless you want themes or tokens.
+*/
+@import "tailwindcss";
+
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border: none;
+  border-radius: 0;
+  padding: 0;                  /* let Tailwind handle size */
+  font: inherit;
+  background-color: transparent; /* ✨ no solid bg anywhere */
+  cursor: pointer;
+}
+
+button:hover {
+  border-color: inherit;       /* or just remove this block */
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  /* ❌ remove the light-mode button background override */
+  /* button {
+    background-color: #f9f9f9;
+  } */
+}
+
+/* Hide scrollbar for Chrome, Safari, Edge */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for Firefox */
+.scrollbar-hide {
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+
+.scrollbar-hide {
+  scrollbar-width: none;
+}
+
+.chat-tooltip {
+  position: relative;
+}
+
+.chat-tooltip::after {
+  content: attr(data-fulltext);
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: 10px;
+
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 12px;
+  white-space: nowrap;
+  z-index: 9999;
+
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.chat-tooltip:hover::after {
+  opacity: 1;
+}
+
+/* ----------------------------
+   Custom range (slider) styles
+   Fixes native brown thumb when rotated
+   ---------------------------- */
+
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  outline: none;
+}
+
+/* Track */
+input[type="range"]::-webkit-slider-runnable-track {
+  height: 6px;
+  border-radius: 9999px;
+  background: #e6e7ea;
+}
+
+/* REMOVE SLIDER THUMB COMPLETELY */
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 0;
+  height: 0;
+}
+
+input[type="range"]::-moz-range-thumb {
+  width: 0;
+  height: 0;
+  border: none;
+  background: transparent;
+}
+
+input[type="range"]::-ms-thumb {
+  width: 0;
+  height: 0;
+  border: none;
+  background: transparent;
+}
+
+/* markdown container reset */
+.bot-markdown {
+  font-weight: 400;
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* paragraphs */
+.bot-markdown p {
+  margin: 0.25rem 0;
+}
+
+/* headings */
+.bot-markdown h1,
+.bot-markdown h2,
+.bot-markdown h3 {
+  font-size: 1.05rem;
+  font-weight: 500;
+  margin: 0.5rem 0 0.25rem;
+}
+
+/* lists */
+.bot-markdown ul,
+.bot-markdown ol {
+  padding-left: 1.25rem;
+  margin: 0.25rem 0;
+}
+
+.bot-markdown li {
+  margin: 0.15rem 0;
+}
+
+/* code */
+.bot-markdown pre,
+.bot-markdown code {
+  white-space: pre-wrap;
+  max-width: 100%;
+}

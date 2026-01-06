@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# ML artifacts
+models/
+checkpoints/
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Data
+data/
+datasets/
+*.csv
+*.parquet
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node (if frontend exists)
+node_modules/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+
+# === AI / RAG Generated Artifacts ===
+backend/faiss_store/
+backend/rag_data/
+backend/uploads/
+
+# Vector stores
+*.faiss
+*.pkl
+
+# Uploaded documents
+*.pdf

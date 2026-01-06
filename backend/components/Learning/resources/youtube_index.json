@@ -1,0 +1,492 @@
+[
+  { "youtube_id": "rfscVS0vtbw", "title": "Python Full Course for Beginners", "channel": "freeCodeCamp.org", "topics": ["programming", "python"] },
+  { "youtube_id": "Z1Yd7upQsXY", "title": "Java Full Course", "channel": "Programming with Mosh", "topics": ["programming", "java"] },
+  { "youtube_id": "8hly31xKli0", "title": "Data Structures and Algorithms Full Course", "channel": "freeCodeCamp.org", "topics": ["programming", "dsa"] },
+  { "youtube_id": "pTB0EiLXUC8", "title": "System Design Basics", "channel": "Gaurav Sen", "topics": ["programming", "system design"] },
+  { "youtube_id": "PkZNo7MFNFg", "title": "JavaScript Full Course", "channel": "freeCodeCamp.org", "topics": ["programming", "javascript"] },
+  { "youtube_id": "HXV3zeQKqGY", "title": "SQL Tutorial for Beginners", "channel": "Programming with Mosh", "topics": ["programming", "sql"] },
+  { "youtube_id": "W6NZfCO5SIk", "title": "JavaScript Basics", "channel": "Programming with Mosh", "topics": ["programming", "basics"] },
+  { "youtube_id": "ZzaPdXTrSb8", "title": "Git and GitHub Full Course", "channel": "freeCodeCamp.org", "topics": ["programming", "git"] },
+  { "youtube_id": "3tB7dW7Gk0U", "title": "Operating Systems Fundamentals", "channel": "Neso Academy", "topics": ["programming", "os"] },
+  { "youtube_id": "qiQR5rTSshw", "title": "Computer Networks Full Course", "channel": "Neso Academy", "topics": ["programming", "networks"] },
+
+  { "youtube_id": "O6P86uwfdNY", "title": "Node.js and Express.js Full Course", "channel": "freeCodeCamp.org", "topics": ["backend", "node"] },
+  { "youtube_id": "bMknfKXIFA8", "title": "React Full Course", "channel": "Bob Ziroll", "topics": ["frontend", "react"] },
+  { "youtube_id": "7CqJlxBYj-M", "title": "MERN Stack Course Part 1", "channel": "EdRoh", "topics": ["mern", "fullstack"] },
+  { "youtube_id": "r8S8XIDPstY", "title": "Next.js Full Tutorial", "channel": "Codevolution", "topics": ["fullstack", "nextjs"] },
+  { "youtube_id": "u6gSSpflfgs", "title": "Authentication in MERN", "channel": "JavaScript Mastery", "topics": ["mern", "auth"] },
+
+  { "youtube_id": "98BzS5Oz5E4", "title": "MongoDB Full Tutorial", "channel": "Amigoscode", "topics": ["mongodb", "database"] },
+  { "youtube_id": "2O9S-XWlWyo", "title": "PostgreSQL Full Course", "channel": "freeCodeCamp.org", "topics": ["sql", "database"] },
+  { "youtube_id": "l8S0zH-EupA", "title": "Prisma ORM with SQL", "channel": "Web Dev Simplified", "topics": ["sql", "backend"] },
+
+  { "youtube_id": "aircAruvnKk", "title": "Neural Networks Explained", "channel": "3Blue1Brown", "topics": ["ai", "math"] },
+  { "youtube_id": "vM304mK8P3Q", "title": "PyTorch for Beginners", "channel": "freeCodeCamp.org", "topics": ["ai", "pytorch"] },
+  { "youtube_id": "tPYj3fFJGjk", "title": "TensorFlow 2.0 Full Course", "channel": "freeCodeCamp.org", "topics": ["ai", "tensorflow"] },
+
+  { "youtube_id": "Y8Tko2YC5hA", "title": "Pandas for Data Science", "channel": "Keith Galli", "topics": ["data science", "python"] },
+  { "youtube_id": "qBigTkBLU6g", "title": "Statistics Fundamentals", "channel": "StatQuest", "topics": ["data science", "statistics"] },
+  { "youtube_id": "6m_XUe0vbi8", "title": "Math for Machine Learning", "channel": "Imperial College London", "topics": ["aiml", "math"] },
+
+  { "youtube_id": "u49iW2RIn_A", "title": "Excel for Data Analysts", "channel": "Alex The Analyst", "topics": ["data analyst", "excel"] },
+  { "youtube_id": "3HNyXCPDQ7Q", "title": "SQL for Data Analytics", "channel": "Alex The Analyst", "topics": ["data analyst", "sql"] },
+  { "youtube_id": "58uY7Y_E_9w", "title": "Power BI Full Course", "channel": "Edureka", "topics": ["data analyst", "powerbi"] },
+
+  { "youtube_id": "HovVp_v8iK4", "title": "Data Engineering Roadmap", "channel": "Darshil Parmar", "topics": ["data engineer", "career"] },
+  { "youtube_id": "7QvO6K2T-7A", "title": "Apache Airflow for Beginners", "channel": "The Seattle Data Guy", "topics": ["data engineer", "etl"] },
+  { "youtube_id": "r-uOLxNrNk8", "title": "Spark & Big Data Full Course", "channel": "freeCodeCamp.org", "topics": ["data engineer", "spark"] },
+  { "youtube_id": "vM02mO_PvpM", "title": "Snowflake Data Warehouse", "channel": "IBM Technology", "topics": ["data engineer", "cloud"] },
+  
+  { "youtube_id": "i_LwzRVP7bg", "title": "Generative AI Explained", "channel": "Google Cloud", "topics": ["ai engineer", "genai"] },
+  { "youtube_id": "QDX-1M5Nj7s", "title": "Fine-tuning Large Language Models", "channel": "DeepLearning.AI", "topics": ["ai engineer", "llm"] },
+  { "youtube_id": "zjkQMfxtu28", "title": "LLM Application Patterns & RAG", "channel": "DeepLearning.AI", "topics": ["ai engineer", "rag"] },
+  { "youtube_id": "IsXXlYvbB1M", "title": "OpenAI API Crash Course", "channel": "JavaScript Mastery", "topics": ["ai engineer", "api"] },
+  { "youtube_id": "7MfBlmAomeM", "title": "AI Engineer Roadmap 2025", "channel": "codebasics", "topics": ["ai engineer", "career"] },
+
+  { "youtube_id": "T675bdn077E", "title": "How Transformers Work", "channel": "Umar Jamil", "topics": ["ai engineer", "transformers"] },
+  { "youtube_id": "f_oI_07_n_A", "title": "Stanford NLP with Deep Learning", "channel": "Stanford Online", "topics": ["ai engineer", "nlp"] },
+  { "youtube_id": "9t1v6vN480Q", "title": "AI Agents Architecture", "channel": "Rabbit Hole", "topics": ["ai engineer", "agents"] },
+  { "youtube_id": "vM304mK8P3Q", "title": "PyTorch for Beginners", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "pytorch"] },
+  { "youtube_id": "tPYj3fFJGjk", "title": "TensorFlow 2.0 Full Course", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "tensorflow"] },
+
+  { "youtube_id": "jgwUq8WliMk", "title": "Neural Networks from Scratch", "channel": "sentdex", "topics": ["ai engineer", "python"] },
+  { "youtube_id": "aircAruvnKk", "title": "Neural Networks Explained", "channel": "3Blue1Brown", "topics": ["ai engineer", "math"] },
+  { "youtube_id": "6m_XUe0vbi8", "title": "Mathematics for Machine Learning", "channel": "Imperial College London", "topics": ["ai engineer", "math"] },
+  { "youtube_id": "qBigTkBLU6g", "title": "Statistics for ML", "channel": "StatQuest", "topics": ["ai engineer", "statistics"] },
+
+  { "youtube_id": "vM02mO_PvpM", "title": "MLOps on Cloud", "channel": "IBM Technology", "topics": ["ai engineer", "mlops"] },
+  { "youtube_id": "mR9P3jKk7E0", "title": "MLflow Tracking & Deployment", "channel": "DataCamp", "topics": ["ai engineer", "mlops"] },
+  { "youtube_id": "0o6Zf0R0b2A", "title": "Model Deployment with FastAPI", "channel": "Krish Naik", "topics": ["ai engineer", "deployment"] },
+  { "youtube_id": "y8Z2Qm2V2n0", "title": "Docker for Machine Learning", "channel": "TechWorld with Nana", "topics": ["ai engineer", "docker"] },
+  { "youtube_id": "X48VuDVv0do", "title": "Kubernetes for ML Engineers", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "kubernetes"] },
+
+  { "youtube_id": "sZ9Y8Pp2KkA", "title": "Vector Databases Explained", "channel": "Pinecone", "topics": ["ai engineer", "vector db"] },
+  { "youtube_id": "J5x3OMX2W8M", "title": "FAISS Tutorial", "channel": "CodeEmporium", "topics": ["ai engineer", "faiss"] },
+  { "youtube_id": "4y1a3E3Vw3A", "title": "ChromaDB Tutorial", "channel": "LangChain", "topics": ["ai engineer", "vectordb"] },
+
+  { "youtube_id": "6H6p9x2b4kI", "title": "LangChain Crash Course", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "langchain"] },
+  { "youtube_id": "3b4r3Z2xZ0M", "title": "Building RAG Systems End-to-End", "channel": "Krish Naik", "topics": ["ai engineer", "rag"] },
+  { "youtube_id": "E9U8Kx9qZ7E", "title": "Prompt Engineering Masterclass", "channel": "DeepLearning.AI", "topics": ["ai engineer", "prompt engineering"] },
+
+  { "youtube_id": "Rz9eQp7p1cQ", "title": "AI System Design Interview", "channel": "Gaurav Sen", "topics": ["ai engineer", "system design"] },
+  { "youtube_id": "pTB0EiLXUC8", "title": "System Design Basics", "channel": "Gaurav Sen", "topics": ["ai engineer", "architecture"] },
+
+  { "youtube_id": "8hly31xKli0", "title": "DSA for ML Engineers", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "dsa"] },
+  { "youtube_id": "ZzaPdXTrSb8", "title": "Git & GitHub Full Course", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "git"] },
+  { "youtube_id": "O6P86uwfdNY", "title": "Node.js & Express for AI Backends", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "backend"] },
+
+  { "youtube_id": "bMknfKXIFA8", "title": "React for AI Dashboards", "channel": "Bob Ziroll", "topics": ["ai engineer", "frontend"] },
+  { "youtube_id": "r8S8XIDPstY", "title": "Next.js for Production Apps", "channel": "Codevolution", "topics": ["ai engineer", "nextjs"] },
+
+  { "youtube_id": "N5fSpaaxoZ0", "title": "Machine Learning Full Course", "channel": "freeCodeCamp.org", "topics": ["aiml", "machine learning"] },
+  { "youtube_id": "Gv9_4yMHFhI", "title": "Deep Learning Full Course", "channel": "freeCodeCamp.org", "topics": ["aiml", "deep learning"] },
+  { "youtube_id": "aircAruvnKk", "title": "Neural Networks Explained", "channel": "3Blue1Brown", "topics": ["aiml", "math"] },
+  { "youtube_id": "IHZwWFHWa-w", "title": "Gradient Descent Explained", "channel": "3Blue1Brown", "topics": ["aiml", "optimization"] },
+  { "youtube_id": "tPYj3fFJGjk", "title": "TensorFlow 2.0 Full Course", "channel": "freeCodeCamp.org", "topics": ["aiml", "tensorflow"] },
+
+  { "youtube_id": "vM304mK8P3Q", "title": "PyTorch for Beginners", "channel": "freeCodeCamp.org", "topics": ["aiml", "pytorch"] },
+  { "youtube_id": "f_oI_07_n_A", "title": "Stanford NLP with Deep Learning", "channel": "Stanford Online", "topics": ["aiml", "nlp"] },
+  { "youtube_id": "PaCmpygFfXo", "title": "Reinforcement Learning Course", "channel": "Lex Fridman", "topics": ["aiml", "reinforcement learning"] },
+  { "youtube_id": "6m_XUe0vbi8", "title": "Mathematics for Machine Learning", "channel": "Imperial College London", "topics": ["aiml", "math"] },
+  { "youtube_id": "qBigTkBLU6g", "title": "Statistics Fundamentals", "channel": "StatQuest", "topics": ["aiml", "statistics"] },
+
+  { "youtube_id": "Y8Tko2YC5hA", "title": "Pandas for Data Science", "channel": "Keith Galli", "topics": ["aiml", "python"] },
+  { "youtube_id": "vmEHCJofslg", "title": "NumPy Tutorial", "channel": "freeCodeCamp.org", "topics": ["aiml", "numpy"] },
+  { "youtube_id": "u7n6KpZsVw4", "title": "Scikit-Learn Full Course", "channel": "freeCodeCamp.org", "topics": ["aiml", "scikit-learn"] },
+  { "youtube_id": "4dws6-4QzRA", "title": "Feature Engineering Tutorial", "channel": "Krish Naik", "topics": ["aiml", "feature engineering"] },
+  { "youtube_id": "8oPz7f0v6kA", "title": "Model Evaluation Metrics", "channel": "StatQuest", "topics": ["aiml", "evaluation"] },
+
+  { "youtube_id": "QDX-1M5Nj7s", "title": "Fine-tuning Large Language Models", "channel": "DeepLearning.AI", "topics": ["aiml", "llm"] },
+  { "youtube_id": "zjkQMfxtu28", "title": "LLM Application Patterns", "channel": "DeepLearning.AI", "topics": ["aiml", "llm"] },
+  { "youtube_id": "T675bdn077E", "title": "How Transformers Work", "channel": "Umar Jamil", "topics": ["aiml", "transformers"] },
+  { "youtube_id": "i_LwzRVP7bg", "title": "Generative AI Explained", "channel": "Google Cloud", "topics": ["aiml", "genai"] },
+  { "youtube_id": "E9U8Kx9qZ7E", "title": "Prompt Engineering Masterclass", "channel": "DeepLearning.AI", "topics": ["aiml", "prompt engineering"] },
+
+  { "youtube_id": "mFq8QFzv6xQ", "title": "Computer Vision Full Course", "channel": "freeCodeCamp.org", "topics": ["aiml", "computer vision"] },
+  { "youtube_id": "Zp3R3YkGZkI", "title": "CNN Architectures Explained", "channel": "DeepLearningAI", "topics": ["aiml", "cnn"] },
+  { "youtube_id": "p1Q0G3WzYz0", "title": "Object Detection with YOLO", "channel": "Roboflow", "topics": ["aiml", "computer vision"] },
+  { "youtube_id": "X8W5jFZp4vQ", "title": "Image Segmentation Tutorial", "channel": "Aladdin Persson", "topics": ["aiml", "vision"] },
+
+  { "youtube_id": "0o6Zf0R0b2A", "title": "Model Deployment with FastAPI", "channel": "Krish Naik", "topics": ["aiml", "deployment"] },
+  { "youtube_id": "y8Z2Qm2V2n0", "title": "Docker for ML Engineers", "channel": "TechWorld with Nana", "topics": ["aiml", "docker"] },
+  { "youtube_id": "X48VuDVv0do", "title": "Kubernetes for ML", "channel": "freeCodeCamp.org", "topics": ["aiml", "kubernetes"] },
+  { "youtube_id": "mR9P3jKk7E0", "title": "MLflow for Experiment Tracking", "channel": "DataCamp", "topics": ["aiml", "mlops"] },
+  { "youtube_id": "vM02mO_PvpM", "title": "MLOps on Cloud", "channel": "IBM Technology", "topics": ["aiml", "mlops"] },
+
+  { "youtube_id": "HovVp_v8iK4", "title": "Data Engineering Roadmap", "channel": "Darshil Parmar", "topics": ["aiml", "data pipelines"] },
+  { "youtube_id": "7QvO6K2T-7A", "title": "Apache Airflow for ML Pipelines", "channel": "The Seattle Data Guy", "topics": ["aiml", "etl"] },
+  { "youtube_id": "r-uOLxNrNk8", "title": "Spark for Machine Learning", "channel": "freeCodeCamp.org", "topics": ["aiml", "spark"] },
+  { "youtube_id": "0pThnRneDjw", "title": "dbt for Analytics Engineering", "channel": "Victoria Bello", "topics": ["aiml", "dbt"] },
+
+  { "youtube_id": "7MfBlmAomeM", "title": "AI / ML Career Roadmap 2025", "channel": "codebasics", "topics": ["aiml", "career"] },
+  { "youtube_id": "Rz9eQp7p1cQ", "title": "AI System Design Interview", "channel": "Gaurav Sen", "topics": ["aiml", "system design"] },
+
+  { "youtube_id": "ua-CiDNNj30", "title": "Data Science Full Course", "channel": "freeCodeCamp.org", "topics": ["data science", "full course"] },
+  { "youtube_id": "Y8Tko2YC5hA", "title": "Pandas for Data Science", "channel": "Keith Galli", "topics": ["data science", "python"] },
+  { "youtube_id": "vmEHCJofslg", "title": "NumPy Tutorial", "channel": "freeCodeCamp.org", "topics": ["data science", "numpy"] },
+  { "youtube_id": "qBigTkBLU6g", "title": "Statistics Fundamentals", "channel": "StatQuest", "topics": ["data science", "statistics"] },
+  { "youtube_id": "6m_XUe0vbi8", "title": "Mathematics for Machine Learning", "channel": "Imperial College London", "topics": ["data science", "math"] },
+
+  { "youtube_id": "Gv9_4yMHFhI", "title": "Deep Learning Full Course", "channel": "freeCodeCamp.org", "topics": ["data science", "deep learning"] },
+  { "youtube_id": "u7n6KpZsVw4", "title": "Scikit-Learn Full Course", "channel": "freeCodeCamp.org", "topics": ["data science", "scikit-learn"] },
+  { "youtube_id": "4dws6-4QzRA", "title": "Feature Engineering Tutorial", "channel": "Krish Naik", "topics": ["data science", "feature engineering"] },
+  { "youtube_id": "8oPz7f0v6kA", "title": "Model Evaluation Metrics", "channel": "StatQuest", "topics": ["data science", "evaluation"] },
+  { "youtube_id": "IHZwWFHWa-w", "title": "Gradient Descent Explained", "channel": "3Blue1Brown", "topics": ["data science", "optimization"] },
+
+  { "youtube_id": "f_oI_07_n_A", "title": "Stanford NLP with Deep Learning", "channel": "Stanford Online", "topics": ["data science", "nlp"] },
+  { "youtube_id": "mFq8QFzv6xQ", "title": "Computer Vision Full Course", "channel": "freeCodeCamp.org", "topics": ["data science", "computer vision"] },
+  { "youtube_id": "p1Q0G3WzYz0", "title": "Object Detection with YOLO", "channel": "Roboflow", "topics": ["data science", "vision"] },
+  { "youtube_id": "Zp3R3YkGZkI", "title": "CNN Architectures Explained", "channel": "DeepLearning.AI", "topics": ["data science", "cnn"] },
+
+  { "youtube_id": "N5fSpaaxoZ0", "title": "Machine Learning Full Course", "channel": "freeCodeCamp.org", "topics": ["data science", "machine learning"] },
+  { "youtube_id": "PaCmpygFfXo", "title": "Reinforcement Learning Course", "channel": "Lex Fridman", "topics": ["data science", "reinforcement learning"] },
+  { "youtube_id": "aircAruvnKk", "title": "Neural Networks Explained", "channel": "3Blue1Brown", "topics": ["data science", "neural networks"] },
+
+  { "youtube_id": "rGMWpKlOnKC", "title": "Tableau for Data Science", "channel": "Alex The Analyst", "topics": ["data science", "tableau"] },
+  { "youtube_id": "58uY7Y_E_9w", "title": "Power BI Full Course", "channel": "Edureka", "topics": ["data science", "powerbi"] },
+  { "youtube_id": "u49iW2RIn_A", "title": "Excel for Data Analysts", "channel": "Alex The Analyst", "topics": ["data science", "excel"] },
+  { "youtube_id": "3HNyXCPDQ7Q", "title": "SQL for Data Analytics", "channel": "Alex The Analyst", "topics": ["data science", "sql"] },
+
+  { "youtube_id": "HovVp_v8iK4", "title": "Data Engineering Roadmap", "channel": "Darshil Parmar", "topics": ["data science", "pipelines"] },
+  { "youtube_id": "7QvO6K2T-7A", "title": "Apache Airflow Data Pipelines", "channel": "The Seattle Data Guy", "topics": ["data science", "etl"] },
+  { "youtube_id": "r-uOLxNrNk8", "title": "Spark & Big Data Full Course", "channel": "freeCodeCamp.org", "topics": ["data science", "spark"] },
+  { "youtube_id": "0pThnRneDjw", "title": "dbt for Analytics Engineering", "channel": "Victoria Bello", "topics": ["data science", "dbt"] },
+
+  { "youtube_id": "vM02mO_PvpM", "title": "Snowflake Data Warehouse", "channel": "IBM Technology", "topics": ["data science", "cloud"] },
+  { "youtube_id": "X48VuDVv0do", "title": "Kubernetes Basics for Data Teams", "channel": "freeCodeCamp.org", "topics": ["data science", "kubernetes"] },
+  { "youtube_id": "y8Z2Qm2V2n0", "title": "Docker for Data Scientists", "channel": "TechWorld with Nana", "topics": ["data science", "docker"] },
+  { "youtube_id": "0o6Zf0R0b2A", "title": "Model Deployment with FastAPI", "channel": "Krish Naik", "topics": ["data science", "deployment"] },
+
+  { "youtube_id": "zjkQMfxtu28", "title": "LLM Application Patterns", "channel": "DeepLearning.AI", "topics": ["data science", "llm"] },
+  { "youtube_id": "i_LwzRVP7bg", "title": "Generative AI Explained", "channel": "Google Cloud", "topics": ["data science", "genai"] },
+  { "youtube_id": "E9U8Kx9qZ7E", "title": "Prompt Engineering Masterclass", "channel": "DeepLearning.AI", "topics": ["data science", "prompt engineering"] },
+
+  { "youtube_id": "Rz9eQp7p1cQ", "title": "System Design for ML", "channel": "Gaurav Sen", "topics": ["data science", "system design"] },
+  { "youtube_id": "7MfBlmAomeM", "title": "Data Science Career Roadmap 2025", "channel": "codebasics", "topics": ["data science", "career"] },
+
+  { "youtube_id": "HovVp_v8iK4", "title": "Data Engineering Roadmap", "channel": "Darshil Parmar", "topics": ["data engineer", "career"] },
+  { "youtube_id": "r-uOLxNrNk8", "title": "Spark & Big Data Full Course", "channel": "freeCodeCamp.org", "topics": ["data engineer", "spark"] },
+  { "youtube_id": "7QvO6K2T-7A", "title": "Apache Airflow for Beginners", "channel": "The Seattle Data Guy", "topics": ["data engineer", "etl"] },
+  { "youtube_id": "0pThnRneDjw", "title": "dbt (Data Build Tool) Tutorial", "channel": "Victoria Bello", "topics": ["data engineer", "dbt"] },
+  { "youtube_id": "vM02mO_PvpM", "title": "Snowflake Data Warehouse", "channel": "IBM Technology", "topics": ["data engineer", "cloud"] },
+
+  { "youtube_id": "m5Y7vP6k2zQ", "title": "Data Engineering Full Course", "channel": "freeCodeCamp.org", "topics": ["data engineer", "full course"] },
+  { "youtube_id": "JwSS70SZdyM", "title": "Apache Kafka Full Course", "channel": "freeCodeCamp.org", "topics": ["data engineer", "kafka"] },
+  { "youtube_id": "K3ZJ3xZ7P2E", "title": "Kafka Streams Explained", "channel": "Confluent", "topics": ["data engineer", "streaming"] },
+  { "youtube_id": "9bY7FzH6G2k", "title": "Apache Flink Tutorial", "channel": "DataCouch", "topics": ["data engineer", "flink"] },
+  { "youtube_id": "2p6K3Z9Vx9Q", "title": "Batch vs Stream Processing", "channel": "IBM Technology", "topics": ["data engineer", "architecture"] },
+
+  { "youtube_id": "2O9S-XWlWyo", "title": "PostgreSQL Full Course", "channel": "freeCodeCamp.org", "topics": ["data engineer", "sql"] },
+  { "youtube_id": "HXV3zeQKqGY", "title": "SQL Tutorial for Beginners", "channel": "Programming with Mosh", "topics": ["data engineer", "sql"] },
+  { "youtube_id": "98BzS5Oz5E4", "title": "MongoDB Full Tutorial", "channel": "Amigoscode", "topics": ["data engineer", "mongodb"] },
+  { "youtube_id": "GPVsHOlRBBI", "title": "Data Modeling Best Practices", "channel": "Seattle Data Guy", "topics": ["data engineer", "data modeling"] },
+  { "youtube_id": "3HNyXCPDQ7Q", "title": "SQL for Data Analytics", "channel": "Alex The Analyst", "topics": ["data engineer", "sql"] },
+
+  { "youtube_id": "8JQ8F4kQ3Hk", "title": "AWS Data Engineering Services", "channel": "freeCodeCamp.org", "topics": ["data engineer", "aws"] },
+  { "youtube_id": "YfZQkPZl1xQ", "title": "Google Cloud Data Engineering", "channel": "Google Cloud Tech", "topics": ["data engineer", "gcp"] },
+  { "youtube_id": "Z6u6RkYhP3A", "title": "Azure Data Factory Tutorial", "channel": "Microsoft Azure", "topics": ["data engineer", "azure"] },
+  { "youtube_id": "wY2Xx8mKk9A", "title": "Terraform for Data Engineers", "channel": "freeCodeCamp.org", "topics": ["data engineer", "terraform"] },
+  { "youtube_id": "y8Z2Qm2V2n0", "title": "Docker for Data Engineers", "channel": "TechWorld with Nana", "topics": ["data engineer", "docker"] },
+
+  { "youtube_id": "X48VuDVv0do", "title": "Kubernetes Full Course", "channel": "freeCodeCamp.org", "topics": ["data engineer", "kubernetes"] },
+  { "youtube_id": "ZzaPdXTrSb8", "title": "Git & GitHub Full Course", "channel": "freeCodeCamp.org", "topics": ["data engineer", "git"] },
+  { "youtube_id": "qiQR5rTSshw", "title": "Computer Networks Full Course", "channel": "Neso Academy", "topics": ["data engineer", "networks"] },
+  { "youtube_id": "3tB7dW7Gk0U", "title": "Operating Systems Fundamentals", "channel": "Neso Academy", "topics": ["data engineer", "os"] },
+
+  { "youtube_id": "K5Y8mP9Xx4Q", "title": "Data Lake vs Data Warehouse", "channel": "IBM Technology", "topics": ["data engineer", "architecture"] },
+  { "youtube_id": "b7kN9XH2J3A", "title": "Modern Data Stack Explained", "channel": "Seattle Data Guy", "topics": ["data engineer", "modern data stack"] },
+  { "youtube_id": "P6Y9KQkZxA4", "title": "ETL Pipeline Design", "channel": "Simplilearn", "topics": ["data engineer", "etl"] },
+  { "youtube_id": "M7QKk3Y9P2A", "title": "CDC (Change Data Capture) Explained", "channel": "Confluent", "topics": ["data engineer", "cdc"] },
+  { "youtube_id": "N4ZP3QYkA8X", "title": "Schema Evolution in Data Systems", "channel": "Data Engineering Weekly", "topics": ["data engineer", "schema"] },
+
+  { "youtube_id": "Rz9eQp7p1cQ", "title": "System Design Interview for Data Engineers", "channel": "Gaurav Sen", "topics": ["data engineer", "system design"] },
+  { "youtube_id": "mR9P3jKk7E0", "title": "Data Pipeline Monitoring", "channel": "DataCamp", "topics": ["data engineer", "monitoring"] },
+  { "youtube_id": "Q8kPZ7X4A9M", "title": "Data Quality Checks", "channel": "Great Expectations", "topics": ["data engineer", "data quality"] },
+  { "youtube_id": "A9KxZP4Y7M2", "title": "Metadata Management Explained", "channel": "IBM Technology", "topics": ["data engineer", "metadata"] },
+  { "youtube_id": "7MfBlmAomeM", "title": "Data Engineering Career Roadmap 2025", "channel": "codebasics", "topics": ["data engineer", "career"] },
+
+  { "youtube_id": "7CqJlxBYj-M", "title": "MERN Stack Full Course - Part 1", "channel": "EdRoh", "topics": ["mern", "fullstack"] },
+  { "youtube_id": "O6P86uwfdNY", "title": "Node.js and Express.js Full Course", "channel": "freeCodeCamp.org", "topics": ["backend", "node"] },
+  { "youtube_id": "bMknfKXIFA8", "title": "React Full Course", "channel": "Bob Ziroll", "topics": ["frontend", "react"] },
+  { "youtube_id": "PkZNo7MFNFg", "title": "JavaScript Full Course", "channel": "freeCodeCamp.org", "topics": ["javascript", "web"] },
+  { "youtube_id": "W6NZfCO5SIk", "title": "JavaScript Basics", "channel": "Programming with Mosh", "topics": ["javascript", "basics"] },
+
+  { "youtube_id": "r8S8XIDPstY", "title": "Next.js Full Tutorial", "channel": "Codevolution", "topics": ["fullstack", "nextjs"] },
+  { "youtube_id": "u6gSSpflfgs", "title": "Authentication with MERN", "channel": "JavaScript Mastery", "topics": ["mern", "auth"] },
+  { "youtube_id": "8JJ101D3knE", "title": "Redux Toolkit Tutorial", "channel": "Dave Gray", "topics": ["react", "state management"] },
+  { "youtube_id": "SqcY0GlETPk", "title": "React Query Crash Course", "channel": "Laith Academy", "topics": ["react", "data fetching"] },
+  { "youtube_id": "l8S0zH-EupA", "title": "Prisma ORM with SQL", "channel": "Web Dev Simplified", "topics": ["backend", "orm"] },
+
+  { "youtube_id": "98BzS5Oz5E4", "title": "MongoDB Full Tutorial", "channel": "Amigoscode", "topics": ["mongodb", "database"] },
+  { "youtube_id": "2O9S-XWlWyo", "title": "PostgreSQL Full Course", "channel": "freeCodeCamp.org", "topics": ["sql", "database"] },
+  { "youtube_id": "HXV3zeQKqGY", "title": "SQL Tutorial for Beginners", "channel": "Programming with Mosh", "topics": ["sql", "basics"] },
+  { "youtube_id": "ZzaPdXTrSb8", "title": "Git & GitHub Full Course", "channel": "freeCodeCamp.org", "topics": ["git", "version control"] },
+  { "youtube_id": "qiQR5rTSshw", "title": "Computer Networks Full Course", "channel": "Neso Academy", "topics": ["networks", "fundamentals"] },
+
+  { "youtube_id": "3tB7dW7Gk0U", "title": "Operating Systems Fundamentals", "channel": "Neso Academy", "topics": ["os", "fundamentals"] },
+  { "youtube_id": "pTB0EiLXUC8", "title": "System Design Basics", "channel": "Gaurav Sen", "topics": ["system design", "architecture"] },
+  { "youtube_id": "Rz9eQp7p1cQ", "title": "System Design Interview", "channel": "Gaurav Sen", "topics": ["system design", "interview"] },
+
+  { "youtube_id": "X48VuDVv0do", "title": "Kubernetes Full Course", "channel": "freeCodeCamp.org", "topics": ["devops", "kubernetes"] },
+  { "youtube_id": "y8Z2Qm2V2n0", "title": "Docker for Developers", "channel": "TechWorld with Nana", "topics": ["devops", "docker"] },
+  { "youtube_id": "wY2Xx8mKk9A", "title": "Terraform Full Course", "channel": "freeCodeCamp.org", "topics": ["devops", "terraform"] },
+
+  { "youtube_id": "8hly31xKli0", "title": "DSA Full Course", "channel": "freeCodeCamp.org", "topics": ["dsa", "algorithms"] },
+  { "youtube_id": "Z1Yd7upQsXY", "title": "Java Full Course", "channel": "Programming with Mosh", "topics": ["programming", "java"] },
+  { "youtube_id": "rfscVS0vtbw", "title": "Python Full Course", "channel": "freeCodeCamp.org", "topics": ["programming", "python"] },
+
+  { "youtube_id": "IsXXlYvbB1M", "title": "OpenAI API Crash Course", "channel": "JavaScript Mastery", "topics": ["fullstack", "api"] },
+  { "youtube_id": "i_LwzRVP7bg", "title": "Generative AI Explained", "channel": "Google Cloud", "topics": ["ai", "genai"] },
+
+  { "youtube_id": "7MfBlmAomeM", "title": "Full Stack Developer Roadmap 2025", "channel": "codebasics", "topics": ["fullstack", "career"] },
+  { "youtube_id": "m5Y7vP6k2zQ", "title": "Backend Development Full Course", "channel": "freeCodeCamp.org", "topics": ["backend", "career"] },
+  { "youtube_id": "ua-CiDNNj30", "title": "Frontend Development Full Course", "channel": "freeCodeCamp.org", "topics": ["frontend", "career"] },
+
+  { "youtube_id": "HXV3zeQKqGY", "title": "SQL Tutorial for Beginners", "channel": "Programming with Mosh", "topics": ["sql", "basics"] },
+  { "youtube_id": "2O9S-XWlWyo", "title": "PostgreSQL Full Course", "channel": "freeCodeCamp.org", "topics": ["sql", "postgresql"] },
+  { "youtube_id": "7S_tz1z_5bA", "title": "MySQL Full Course", "channel": "freeCodeCamp.org", "topics": ["sql", "mysql"] },
+  { "youtube_id": "qw--VYLpxG4", "title": "Advanced SQL Tutorial", "channel": "freeCodeCamp.org", "topics": ["sql", "advanced"] },
+  { "youtube_id": "9Pzj7Aj25lw", "title": "SQL Joins Explained", "channel": "Corey Schafer", "topics": ["sql", "joins"] },
+
+  { "youtube_id": "HXV3zeQKqGY", "title": "SQL Performance Optimization", "channel": "Programming with Mosh", "topics": ["sql", "performance"] },
+  { "youtube_id": "D_wN6wzHk7A", "title": "Indexes in SQL Explained", "channel": "TechTFQ", "topics": ["sql", "indexing"] },
+  { "youtube_id": "wz9ZK7wG0G8", "title": "Window Functions in SQL", "channel": "TechTFQ", "topics": ["sql", "window functions"] },
+  { "youtube_id": "kJkGZ2H8p9E", "title": "CTEs and Subqueries", "channel": "Data with Danny", "topics": ["sql", "cte"] },
+  { "youtube_id": "Rz9eQp7p1cQ", "title": "SQL System Design Interview", "channel": "Gaurav Sen", "topics": ["sql", "system design"] },
+
+  { "youtube_id": "98BzS5Oz5E4", "title": "MongoDB Full Tutorial", "channel": "Amigoscode", "topics": ["mongodb", "basics"] },
+  { "youtube_id": "J6mDkcqU_ZE", "title": "MongoDB Crash Course", "channel": "Traversy Media", "topics": ["mongodb", "nosql"] },
+  { "youtube_id": "ofme2o29ngU", "title": "MongoDB Aggregation Framework", "channel": "MongoDB", "topics": ["mongodb", "aggregation"] },
+  { "youtube_id": "AYDP1S5BbTo", "title": "MongoDB Indexing Explained", "channel": "MongoDB", "topics": ["mongodb", "indexing"] },
+  { "youtube_id": "l8S0zH-EupA", "title": "Prisma ORM with SQL", "channel": "Web Dev Simplified", "topics": ["sql", "orm"] },
+
+  { "youtube_id": "ZzaPdXTrSb8", "title": "Git & GitHub Full Course", "channel": "freeCodeCamp.org", "topics": ["sql", "version control"] },
+  { "youtube_id": "O6P86uwfdNY", "title": "Node.js with SQL Databases", "channel": "freeCodeCamp.org", "topics": ["sql", "backend"] },
+  { "youtube_id": "7CqJlxBYj-M", "title": "MERN Stack with MongoDB", "channel": "EdRoh", "topics": ["mongodb", "mern"] },
+
+  { "youtube_id": "GPVsHOlRBBI", "title": "Data Modeling Best Practices", "channel": "Seattle Data Guy", "topics": ["sql", "data modeling"] },
+  { "youtube_id": "3HNyXCPDQ7Q", "title": "SQL for Data Analytics", "channel": "Alex The Analyst", "topics": ["sql", "analytics"] },
+  { "youtube_id": "u49iW2RIn_A", "title": "Excel + SQL for Analysts", "channel": "Alex The Analyst", "topics": ["sql", "analysis"] },
+
+  { "youtube_id": "vM02mO_PvpM", "title": "SQL Databases on Cloud", "channel": "IBM Technology", "topics": ["sql", "cloud"] },
+  { "youtube_id": "8JQ8F4kQ3Hk", "title": "AWS RDS Explained", "channel": "freeCodeCamp.org", "topics": ["sql", "aws"] },
+  { "youtube_id": "Z6u6RkYhP3A", "title": "Azure SQL Database Tutorial", "channel": "Microsoft Azure", "topics": ["sql", "azure"] },
+
+  { "youtube_id": "K5Y8mP9Xx4Q", "title": "SQL vs NoSQL Explained", "channel": "IBM Technology", "topics": ["sql", "nosql"] },
+  { "youtube_id": "b7kN9XH2J3A", "title": "Database Sharding Explained", "channel": "Hussein Nasser", "topics": ["database", "scaling"] },
+  { "youtube_id": "N4ZP3QYkA8X", "title": "Schema Design for Databases", "channel": "Data Engineering Weekly", "topics": ["database", "schema"] },
+
+  { "youtube_id": "qiQR5rTSshw", "title": "Computer Networks Fundamentals", "channel": "Neso Academy", "topics": ["database", "networks"] },
+  { "youtube_id": "3tB7dW7Gk0U", "title": "Operating Systems Fundamentals", "channel": "Neso Academy", "topics": ["database", "os"] },
+
+  { "youtube_id": "7MfBlmAomeM", "title": "SQL Developer Career Roadmap 2025", "channel": "codebasics", "topics": ["sql", "career"] },
+  { "youtube_id": "HovVp_v8iK4", "title": "Data Engineer Roadmap", "channel": "Darshil Parmar", "topics": ["sql", "pipelines"] },
+
+  { "youtube_id": "rGMWpKlOnKC", "title": "Tableau for Data Analysis", "channel": "Alex The Analyst", "topics": ["data analyst", "tableau"] },
+  { "youtube_id": "u49iW2RIn_A", "title": "Excel for Data Analysts", "channel": "Alex The Analyst", "topics": ["data analyst", "excel"] },
+  { "youtube_id": "3HNyXCPDQ7Q", "title": "SQL for Data Analytics", "channel": "Alex The Analyst", "topics": ["data analyst", "sql"] },
+  { "youtube_id": "58uY7Y_E_9w", "title": "Power BI Full Course", "channel": "Edureka", "topics": ["data analyst", "powerbi"] },
+  { "youtube_id": "HXV3zeQKqGY", "title": "SQL Tutorial for Beginners", "channel": "Programming with Mosh", "topics": ["data analyst", "sql"] },
+
+  { "youtube_id": "ua-CiDNNj30", "title": "Data Analysis Full Course", "channel": "freeCodeCamp.org", "topics": ["data analyst", "full course"] },
+  { "youtube_id": "Y8Tko2YC5hA", "title": "Pandas for Data Analysis", "channel": "Keith Galli", "topics": ["data analyst", "python"] },
+  { "youtube_id": "vmEHCJofslg", "title": "NumPy for Data Analysis", "channel": "freeCodeCamp.org", "topics": ["data analyst", "numpy"] },
+  { "youtube_id": "qBigTkBLU6g", "title": "Statistics for Data Analysis", "channel": "StatQuest", "topics": ["data analyst", "statistics"] },
+  { "youtube_id": "6m_XUe0vbi8", "title": "Math for Data Analysis", "channel": "Imperial College London", "topics": ["data analyst", "math"] },
+
+  { "youtube_id": "GPVsHOlRBBI", "title": "Data Modeling Best Practices", "channel": "Seattle Data Guy", "topics": ["data analyst", "data modeling"] },
+  { "youtube_id": "K5Y8mP9Xx4Q", "title": "Data Warehousing Basics", "channel": "IBM Technology", "topics": ["data analyst", "warehouse"] },
+  { "youtube_id": "vM02mO_PvpM", "title": "Snowflake for Analysts", "channel": "IBM Technology", "topics": ["data analyst", "cloud"] },
+  { "youtube_id": "7QvO6K2T-7A", "title": "ETL Pipelines Explained", "channel": "The Seattle Data Guy", "topics": ["data analyst", "etl"] },
+
+  { "youtube_id": "u6gSSpflfgs", "title": "SQL Projects for Analysts", "channel": "JavaScript Mastery", "topics": ["data analyst", "projects"] },
+  { "youtube_id": "D_wN6wzHk7A", "title": "Indexes in SQL Explained", "channel": "TechTFQ", "topics": ["data analyst", "sql performance"] },
+  { "youtube_id": "wz9ZK7wG0G8", "title": "Window Functions in SQL", "channel": "TechTFQ", "topics": ["data analyst", "window functions"] },
+  { "youtube_id": "kJkGZ2H8p9E", "title": "CTEs and Subqueries", "channel": "Data with Danny", "topics": ["data analyst", "cte"] },
+
+  { "youtube_id": "pTB0EiLXUC8", "title": "System Design Basics", "channel": "Gaurav Sen", "topics": ["data analyst", "system design"] },
+  { "youtube_id": "qiQR5rTSshw", "title": "Computer Networks Fundamentals", "channel": "Neso Academy", "topics": ["data analyst", "networks"] },
+  { "youtube_id": "3tB7dW7Gk0U", "title": "Operating Systems Fundamentals", "channel": "Neso Academy", "topics": ["data analyst", "os"] },
+
+  { "youtube_id": "X48VuDVv0do", "title": "Docker Basics for Analysts", "channel": "freeCodeCamp.org", "topics": ["data analyst", "docker"] },
+  { "youtube_id": "ZzaPdXTrSb8", "title": "Git & GitHub Full Course", "channel": "freeCodeCamp.org", "topics": ["data analyst", "git"] },
+
+  { "youtube_id": "m5Y7vP6k2zQ", "title": "Business Intelligence Concepts", "channel": "freeCodeCamp.org", "topics": ["data analyst", "bi"] },
+  { "youtube_id": "Rz9eQp7p1cQ", "title": "Analytics Case Study Walkthrough", "channel": "Gaurav Sen", "topics": ["data analyst", "case study"] },
+  { "youtube_id": "8hly31xKli0", "title": "DSA Basics for Analysts", "channel": "freeCodeCamp.org", "topics": ["data analyst", "dsa"] },
+
+  { "youtube_id": "7MfBlmAomeM", "title": "Data Analyst Career Roadmap 2025", "channel": "codebasics", "topics": ["data analyst", "career"] },
+  { "youtube_id": "P6Y9KQkZxA4", "title": "Real-World Analytics Projects", "channel": "Simplilearn", "topics": ["data analyst", "projects"] },
+  { "youtube_id": "N4ZP3QYkA8X", "title": "Data Quality for Analysts", "channel": "Great Expectations", "topics": ["data analyst", "data quality"] },
+
+  { "youtube_id": "w_5V_p_InpA", "title": "Digital Marketing Full Course", "channel": "Simplilearn", "topics": ["marketing", "digital marketing"] },
+  { "youtube_id": "p7T9tZ0Z7YI", "title": "Inbound Marketing Certification", "channel": "HubSpot Academy", "topics": ["marketing", "inbound"] },
+  { "youtube_id": "xsVQGEv9XEs", "title": "SEO Strategy 2025", "channel": "Ahrefs", "topics": ["marketing", "seo"] },
+  { "youtube_id": "gP_9S6D09qI", "title": "Google Ads Masterclass", "channel": "Surfside PPC", "topics": ["marketing", "ads"] },
+  { "youtube_id": "7R-SRE6qDlo", "title": "Facebook Ads Tutorial", "channel": "Social Media Examiner", "topics": ["marketing", "social media"] },
+
+  { "youtube_id": "vM_9m57pW8Y", "title": "Content Marketing Masterclass", "channel": "Neil Patel", "topics": ["marketing", "content"] },
+  { "youtube_id": "3A3P8F_k7U8", "title": "Copywriting for Beginners", "channel": "Alex Cattoni", "topics": ["marketing", "copywriting"] },
+  { "youtube_id": "jW_q_6v2T4E", "title": "B2B Marketing Strategy", "channel": "HubSpot", "topics": ["marketing", "b2b"] },
+  { "youtube_id": "K5Y8mP9Xx4Q", "title": "Marketing Funnel Explained", "channel": "IBM Technology", "topics": ["marketing", "funnels"] },
+  { "youtube_id": "b7kN9XH2J3A", "title": "Customer Segmentation Explained", "channel": "Hussein Nasser", "topics": ["marketing", "segmentation"] },
+
+  { "youtube_id": "9t1v6vN480Q", "title": "AI in Digital Marketing", "channel": "Rabbit Hole", "topics": ["marketing", "ai"] },
+  { "youtube_id": "i_LwzRVP7bg", "title": "Generative AI for Marketers", "channel": "Google Cloud", "topics": ["marketing", "genai"] },
+  { "youtube_id": "E9U8Kx9qZ7E", "title": "Prompt Engineering for Marketing", "channel": "DeepLearning.AI", "topics": ["marketing", "prompt engineering"] },
+
+  { "youtube_id": "ZzaPdXTrSb8", "title": "Analytics with Google Tag Manager", "channel": "freeCodeCamp.org", "topics": ["marketing", "analytics"] },
+  { "youtube_id": "ua-CiDNNj30", "title": "Google Analytics 4 Full Course", "channel": "freeCodeCamp.org", "topics": ["marketing", "ga4"] },
+  { "youtube_id": "rGMWpKlOnKC", "title": "Marketing Dashboards with Tableau", "channel": "Alex The Analyst", "topics": ["marketing", "tableau"] },
+  { "youtube_id": "58uY7Y_E_9w", "title": "Power BI for Marketing Analytics", "channel": "Edureka", "topics": ["marketing", "powerbi"] },
+
+  { "youtube_id": "P6Y9KQkZxA4", "title": "Email Marketing Automation", "channel": "Simplilearn", "topics": ["marketing", "email"] },
+  { "youtube_id": "N4ZP3QYkA8X", "title": "CRM Fundamentals", "channel": "IBM Technology", "topics": ["marketing", "crm"] },
+  { "youtube_id": "K3ZJ3xZ7P2E", "title": "Marketing Attribution Models", "channel": "Google Analytics", "topics": ["marketing", "attribution"] },
+
+  { "youtube_id": "8hly31xKli0", "title": "A/B Testing Fundamentals", "channel": "freeCodeCamp.org", "topics": ["marketing", "ab testing"] },
+  { "youtube_id": "D_wN6wzHk7A", "title": "Conversion Rate Optimization", "channel": "TechTFQ", "topics": ["marketing", "cro"] },
+
+  { "youtube_id": "y8Z2Qm2V2n0", "title": "MarTech Stack Explained", "channel": "TechWorld with Nana", "topics": ["marketing", "martech"] },
+  { "youtube_id": "X48VuDVv0do", "title": "Marketing Automation with Cloud", "channel": "freeCodeCamp.org", "topics": ["marketing", "cloud"] },
+
+  { "youtube_id": "7MfBlmAomeM", "title": "Digital Marketing Career Roadmap 2025", "channel": "codebasics", "topics": ["marketing", "career"] },
+  { "youtube_id": "Rz9eQp7p1cQ", "title": "Marketing Case Studies", "channel": "Gaurav Sen", "topics": ["marketing", "case study"] },
+
+  { "youtube_id": "m5Y7vP6k2zQ", "title": "Brand Strategy Fundamentals", "channel": "freeCodeCamp.org", "topics": ["marketing", "branding"] },
+  { "youtube_id": "GPVsHOlRBBI", "title": "Market Research Methods", "channel": "Seattle Data Guy", "topics": ["marketing", "research"] },
+  { "youtube_id": "qBigTkBLU6g", "title": "Statistics for Marketing", "channel": "StatQuest", "topics": ["marketing", "statistics"] },
+
+  { "youtube_id": "Z1Yd7upQsXY", "title": "Business Communication Basics", "channel": "Programming with Mosh", "topics": ["marketing", "communication"] },
+  { "youtube_id": "PkZNo7MFNFg", "title": "Landing Page Optimization", "channel": "freeCodeCamp.org", "topics": ["marketing", "landing pages"] },
+  { "youtube_id": "ua-CiDNNj30", "title": "Growth Marketing Fundamentals", "channel": "freeCodeCamp.org", "topics": ["marketing", "growth"] },
+  { "youtube_id": "K5Y8mP9Xx4Q", "title": "Pricing Strategy Explained", "channel": "IBM Technology", "topics": ["marketing", "pricing"] },
+  { "youtube_id": "b7kN9XH2J3A", "title": "Customer Lifetime Value Explained", "channel": "Hussein Nasser", "topics": ["marketing", "clv"] },
+
+  { "youtube_id": "jW_q_6v2T4E", "title": "B2B Sales Psychology", "channel": "Victor Antonio", "topics": ["sales", "psychology"] },
+  { "youtube_id": "V36L_eG8w6k", "title": "High Ticket Sales Closing", "channel": "Dan Lok", "topics": ["sales", "closing"] },
+  { "youtube_id": "p7T9tZ0Z7YI", "title": "Inbound Sales Certification", "channel": "HubSpot Academy", "topics": ["sales", "inbound"] },
+  { "youtube_id": "N4ZP3QYkA8X", "title": "CRM Fundamentals for Sales", "channel": "IBM Technology", "topics": ["sales", "crm"] },
+  { "youtube_id": "K5Y8mP9Xx4Q", "title": "Sales Funnel Explained", "channel": "IBM Technology", "topics": ["sales", "funnels"] },
+
+  { "youtube_id": "3A3P8F_k7U8", "title": "Persuasive Copywriting for Sales", "channel": "Alex Cattoni", "topics": ["sales", "copywriting"] },
+  { "youtube_id": "b7kN9XH2J3A", "title": "Customer Segmentation for Sales", "channel": "Hussein Nasser", "topics": ["sales", "segmentation"] },
+  { "youtube_id": "Rz9eQp7p1cQ", "title": "Sales Case Studies", "channel": "Gaurav Sen", "topics": ["sales", "case study"] },
+
+  { "youtube_id": "ua-CiDNNj30", "title": "Sales Analytics Full Course", "channel": "freeCodeCamp.org", "topics": ["sales", "analytics"] },
+  { "youtube_id": "rGMWpKlOnKC", "title": "Sales Dashboards with Tableau", "channel": "Alex The Analyst", "topics": ["sales", "tableau"] },
+  { "youtube_id": "58uY7Y_E_9w", "title": "Power BI for Sales Analytics", "channel": "Edureka", "topics": ["sales", "powerbi"] },
+
+  { "youtube_id": "qBigTkBLU6g", "title": "Statistics for Sales Forecasting", "channel": "StatQuest", "topics": ["sales", "statistics"] },
+  { "youtube_id": "GPVsHOlRBBI", "title": "Sales Forecasting Models", "channel": "Seattle Data Guy", "topics": ["sales", "forecasting"] },
+
+  { "youtube_id": "w_5V_p_InpA", "title": "Digital Sales Fundamentals", "channel": "Simplilearn", "topics": ["sales", "digital"] },
+  { "youtube_id": "xsVQGEv9XEs", "title": "SEO for Sales Teams", "channel": "Ahrefs", "topics": ["sales", "seo"] },
+  { "youtube_id": "gP_9S6D09qI", "title": "Paid Ads for Lead Generation", "channel": "Surfside PPC", "topics": ["sales", "leads"] },
+
+  { "youtube_id": "9t1v6vN480Q", "title": "AI in Sales Explained", "channel": "Rabbit Hole", "topics": ["sales", "ai"] },
+  { "youtube_id": "i_LwzRVP7bg", "title": "Generative AI for Sales", "channel": "Google Cloud", "topics": ["sales", "genai"] },
+  { "youtube_id": "E9U8Kx9qZ7E", "title": "Prompt Engineering for Sales", "channel": "DeepLearning.AI", "topics": ["sales", "prompt engineering"] },
+
+  { "youtube_id": "ZzaPdXTrSb8", "title": "Sales Automation with CRM", "channel": "freeCodeCamp.org", "topics": ["sales", "automation"] },
+  { "youtube_id": "X48VuDVv0do", "title": "Cloud Tools for Sales Teams", "channel": "freeCodeCamp.org", "topics": ["sales", "cloud"] },
+
+  { "youtube_id": "8hly31xKli0", "title": "Negotiation Fundamentals", "channel": "freeCodeCamp.org", "topics": ["sales", "negotiation"] },
+  { "youtube_id": "D_wN6wzHk7A", "title": "Conversion Rate Optimization", "channel": "TechTFQ", "topics": ["sales", "cro"] },
+
+  { "youtube_id": "m5Y7vP6k2zQ", "title": "Account-Based Sales Strategy", "channel": "freeCodeCamp.org", "topics": ["sales", "abs"] },
+  { "youtube_id": "Z1Yd7upQsXY", "title": "Business Communication Skills", "channel": "Programming with Mosh", "topics": ["sales", "communication"] },
+  { "youtube_id": "PkZNo7MFNFg", "title": "Sales Landing Pages Optimization", "channel": "freeCodeCamp.org", "topics": ["sales", "landing pages"] },
+
+  { "youtube_id": "7MfBlmAomeM", "title": "Sales Career Roadmap 2025", "channel": "codebasics", "topics": ["sales", "career"] },
+  { "youtube_id": "P6Y9KQkZxA4", "title": "Real-World Sales Projects", "channel": "Simplilearn", "topics": ["sales", "projects"] },
+  { "youtube_id": "K3ZJ3xZ7P2E", "title": "Sales Attribution Models", "channel": "Google Analytics", "topics": ["sales", "attribution"] },
+
+  { "youtube_id": "b7kN9XH2J3A", "title": "Customer Retention Strategies", "channel": "Hussein Nasser", "topics": ["sales", "retention"] },
+  { "youtube_id": "N4ZP3QYkA8X", "title": "Revenue Operations Explained", "channel": "IBM Technology", "topics": ["sales", "revops"] },
+  { "youtube_id": "K5Y8mP9Xx4Q", "title": "Pricing Strategy for Sales", "channel": "IBM Technology", "topics": ["sales", "pricing"] },
+
+  { "youtube_id": "8hly31xKli0", "title": "Advanced Data Structures and Algorithms", "channel": "freeCodeCamp.org", "topics": ["programming", "advanced dsa"] },
+  { "youtube_id": "pTB0EiLXUC8", "title": "System Design Basics", "channel": "Gaurav Sen", "topics": ["programming", "system design"] },
+  { "youtube_id": "Rz9eQp7p1cQ", "title": "System Design Interview Advanced", "channel": "Gaurav Sen", "topics": ["programming", "architecture"] },
+  { "youtube_id": "qiQR5rTSshw", "title": "Computer Networks Full Course", "channel": "Neso Academy", "topics": ["programming", "networks"] },
+  { "youtube_id": "3tB7dW7Gk0U", "title": "Operating Systems Full Course", "channel": "Neso Academy", "topics": ["programming", "os"] },
+
+  { "youtube_id": "Z1Yd7upQsXY", "title": "Java Advanced Concepts", "channel": "Programming with Mosh", "topics": ["programming", "java"] },
+  { "youtube_id": "rfscVS0vtbw", "title": "Python Full Course", "channel": "freeCodeCamp.org", "topics": ["programming", "python"] },
+  { "youtube_id": "HGOBQPFzWKo", "title": "Algorithms and Data Structures in C++", "channel": "freeCodeCamp.org", "topics": ["programming", "cpp"] },
+  { "youtube_id": "PkZNo7MFNFg", "title": "JavaScript Full Course", "channel": "freeCodeCamp.org", "topics": ["programming", "javascript"] },
+
+  { "youtube_id": "HXV3zeQKqGY", "title": "SQL Advanced Tutorial", "channel": "Programming with Mosh", "topics": ["programming", "sql"] },
+  { "youtube_id": "2O9S-XWlWyo", "title": "PostgreSQL Advanced", "channel": "freeCodeCamp.org", "topics": ["programming", "database"] },
+  { "youtube_id": "98BzS5Oz5E4", "title": "MongoDB Advanced Tutorial", "channel": "Amigoscode", "topics": ["programming", "mongodb"] },
+
+  { "youtube_id": "O6P86uwfdNY", "title": "Node.js Advanced Concepts", "channel": "freeCodeCamp.org", "topics": ["programming", "backend"] },
+  { "youtube_id": "bMknfKXIFA8", "title": "Advanced React Patterns", "channel": "Bob Ziroll", "topics": ["programming", "react"] },
+  { "youtube_id": "r8S8XIDPstY", "title": "Next.js Advanced Tutorial", "channel": "Codevolution", "topics": ["programming", "nextjs"] },
+
+  { "youtube_id": "ZzaPdXTrSb8", "title": "Git Internals & Advanced Git", "channel": "freeCodeCamp.org", "topics": ["programming", "git"] },
+  { "youtube_id": "y8Z2Qm2V2n0", "title": "Docker Deep Dive", "channel": "TechWorld with Nana", "topics": ["programming", "docker"] },
+  { "youtube_id": "X48VuDVv0do", "title": "Kubernetes Deep Dive", "channel": "freeCodeCamp.org", "topics": ["programming", "kubernetes"] },
+  { "youtube_id": "wY2Xx8mKk9A", "title": "Terraform Advanced", "channel": "freeCodeCamp.org", "topics": ["programming", "terraform"] },
+
+  { "youtube_id": "K5Y8mP9Xx4Q", "title": "Distributed Systems Explained", "channel": "IBM Technology", "topics": ["programming", "distributed systems"] },
+  { "youtube_id": "b7kN9XH2J3A", "title": "Scalability Engineering", "channel": "Hussein Nasser", "topics": ["programming", "scaling"] },
+  { "youtube_id": "M7QKk3Y9P2A", "title": "API Design Best Practices", "channel": "Hussein Nasser", "topics": ["programming", "api"] },
+
+  { "youtube_id": "8JQ8F4kQ3Hk", "title": "AWS for Software Engineers", "channel": "freeCodeCamp.org", "topics": ["programming", "aws"] },
+  { "youtube_id": "YfZQkPZl1xQ", "title": "Google Cloud for Developers", "channel": "Google Cloud Tech", "topics": ["programming", "gcp"] },
+  { "youtube_id": "Z6u6RkYhP3A", "title": "Azure Fundamentals for Developers", "channel": "Microsoft Azure", "topics": ["programming", "azure"] },
+
+  { "youtube_id": "m5Y7vP6k2zQ", "title": "Backend Engineering Roadmap", "channel": "freeCodeCamp.org", "topics": ["programming", "backend"] },
+  { "youtube_id": "ua-CiDNNj30", "title": "Frontend Engineering Roadmap", "channel": "freeCodeCamp.org", "topics": ["programming", "frontend"] },
+
+  { "youtube_id": "7MfBlmAomeM", "title": "Software Engineer Career Roadmap 2025", "channel": "codebasics", "topics": ["programming", "career"] },
+
+  { "youtube_id": "zjkQMfxtu28", "title": "LLM Application Patterns & RAG", "channel": "DeepLearning.AI", "topics": ["ai engineer", "rag"] },
+  { "youtube_id": "QDX-1M5Nj7s", "title": "Fine-tuning Large Language Models", "channel": "DeepLearning.AI", "topics": ["ai engineer", "llm"] },
+  { "youtube_id": "T675bdn077E", "title": "How Transformers Work", "channel": "Umar Jamil", "topics": ["ai engineer", "transformers"] },
+  { "youtube_id": "IsXXlYvbB1M", "title": "OpenAI API Crash Course", "channel": "JavaScript Mastery", "topics": ["ai engineer", "api"] },
+  { "youtube_id": "7MfBlmAomeM", "title": "AI Engineer Roadmap 2025", "channel": "codebasics", "topics": ["ai engineer", "career"] },
+
+  { "youtube_id": "9t1v6vN480Q", "title": "AI Agents Architecture", "channel": "Rabbit Hole", "topics": ["ai engineer", "agents"] },
+  { "youtube_id": "E9U8Kx9qZ7E", "title": "Prompt Engineering Masterclass", "channel": "DeepLearning.AI", "topics": ["ai engineer", "prompt engineering"] },
+  { "youtube_id": "i_LwzRVP7bg", "title": "Generative AI Explained", "channel": "Google Cloud", "topics": ["ai engineer", "genai"] },
+
+  { "youtube_id": "vM304mK8P3Q", "title": "PyTorch Advanced Tutorial", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "pytorch"] },
+  { "youtube_id": "tPYj3fFJGjk", "title": "TensorFlow 2.x Full Course", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "tensorflow"] },
+  { "youtube_id": "jgwUq8WliMk", "title": "Neural Networks from Scratch", "channel": "sentdex", "topics": ["ai engineer", "neural networks"] },
+  { "youtube_id": "aircAruvnKk", "title": "Neural Networks Explained", "channel": "3Blue1Brown", "topics": ["ai engineer", "math"] },
+
+  { "youtube_id": "f_oI_07_n_A", "title": "Stanford NLP with Deep Learning", "channel": "Stanford Online", "topics": ["ai engineer", "nlp"] },
+  { "youtube_id": "mFq8QFzv6xQ", "title": "Computer Vision Full Course", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "vision"] },
+  { "youtube_id": "PaCmpygFfXo", "title": "Reinforcement Learning Course", "channel": "Lex Fridman", "topics": ["ai engineer", "rl"] },
+
+  { "youtube_id": "6m_XUe0vbi8", "title": "Mathematics for Machine Learning", "channel": "Imperial College London", "topics": ["ai engineer", "math"] },
+  { "youtube_id": "qBigTkBLU6g", "title": "Statistics for Machine Learning", "channel": "StatQuest", "topics": ["ai engineer", "statistics"] },
+
+  { "youtube_id": "sZ9Y8Pp2KkA", "title": "Vector Databases Explained", "channel": "Pinecone", "topics": ["ai engineer", "vector db"] },
+  { "youtube_id": "J5x3OMX2W8M", "title": "FAISS Vector Search Tutorial", "channel": "CodeEmporium", "topics": ["ai engineer", "faiss"] },
+  { "youtube_id": "4y1a3E3Vw3A", "title": "ChromaDB Tutorial", "channel": "LangChain", "topics": ["ai engineer", "vectordb"] },
+
+  { "youtube_id": "6H6p9x2b4kI", "title": "LangChain Crash Course", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "langchain"] },
+  { "youtube_id": "3b4r3Z2xZ0M", "title": "Building RAG Systems End-to-End", "channel": "Krish Naik", "topics": ["ai engineer", "rag"] },
+
+  { "youtube_id": "0o6Zf0R0b2A", "title": "Model Deployment with FastAPI", "channel": "Krish Naik", "topics": ["ai engineer", "deployment"] },
+  { "youtube_id": "mR9P3jKk7E0", "title": "MLflow for Production ML", "channel": "DataCamp", "topics": ["ai engineer", "mlops"] },
+  { "youtube_id": "vM02mO_PvpM", "title": "MLOps on Cloud", "channel": "IBM Technology", "topics": ["ai engineer", "mlops"] },
+
+  { "youtube_id": "y8Z2Qm2V2n0", "title": "Docker for ML Engineers", "channel": "TechWorld with Nana", "topics": ["ai engineer", "docker"] },
+  { "youtube_id": "X48VuDVv0do", "title": "Kubernetes for ML Engineers", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "kubernetes"] },
+
+  { "youtube_id": "pTB0EiLXUC8", "title": "System Design Basics", "channel": "Gaurav Sen", "topics": ["ai engineer", "system design"] },
+  { "youtube_id": "Rz9eQp7p1cQ", "title": "AI System Design Interview", "channel": "Gaurav Sen", "topics": ["ai engineer", "architecture"] },
+
+  { "youtube_id": "ZzaPdXTrSb8", "title": "Git & GitHub Full Course", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "git"] },
+  { "youtube_id": "O6P86uwfdNY", "title": "Backend APIs for AI Systems", "channel": "freeCodeCamp.org", "topics": ["ai engineer", "backend"] },
+
+  { "youtube_id": "b7kN9XH2J3A", "title": "Scalable AI Systems", "channel": "Hussein Nasser", "topics": ["ai engineer", "scaling"] },
+  { "youtube_id": "K5Y8mP9Xx4Q", "title": "Distributed Systems for AI", "channel": "IBM Technology", "topics": ["ai engineer", "distributed systems"] },
+
+  { "youtube_id": "7MfBlmAomeM", "title": "AI Engineer Career Growth", "channel": "codebasics", "topics": ["ai engineer", "career"] }
+]
