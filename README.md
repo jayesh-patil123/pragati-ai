@@ -1,287 +1,239 @@
-🚀 Pragati AI — Intelligent Learning & AI Agent Platform
+# 🚀 Pragati AI — Intelligent Learning & AI Agent Platform
 
-Pragati AI is an AI-powered learning and agentic platform designed to help users learn, practice, automate, and grow using modern Artificial Intelligence.
-It combines personalized learning, hands-on coding practice, AI tutoring, workflow automation, and knowledge ingestion (RAG) into a single unified system.
+Pragati AI is an **AI-powered learning and agentic platform** designed to help users **learn, practice, automate, and grow** using modern Artificial Intelligence.
 
-Pragati AI is built to bridge the gap between learning and doing — empowering users to study concepts, practice skills, build agents, and automate workflows in one platform.
+It combines **personalized learning**, **hands-on coding practice**, **AI tutoring**, **workflow automation**, and **knowledge ingestion (RAG)** into a **single unified system**.
 
-✨ Key Highlights
+> Built using **React.js, Tailwind CSS, Vite, and Python**, Pragati AI bridges the gap between **learning and doing** — empowering users to study concepts, practice skills, build AI agents, and automate workflows in one platform.
 
-🎓 AI-Driven Learning Hub
+---
 
-🤖 AI Tutor with contextual assistance
+## ✨ Key Highlights
 
-🧠 Agent-based architecture
+- 🎓 **AI-Driven Learning Hub**
+- 🤖 **Context-aware AI Tutor**
+- 🧠 **Agent-based architecture**
+- 🔁 **Workflow automation & orchestration**
+- 📚 **RAG-powered document understanding**
+- 🧪 **Hands-on coding & SQL practice**
+- 🔐 **Multiple authentication methods**
+- ⚙️ **Enterprise-style settings & user management**
 
-🔁 Workflow automation & orchestration
+---
 
-📚 RAG-powered document understanding
+## 🧩 Platform Overview
 
-🧪 Hands-on coding & SQL practice
+Pragati AI is structured around **four core pillars**:
 
-🔐 Multiple authentication methods
+---
 
-⚙️ Enterprise-style settings & user management
+## 1️⃣ Learning Hub
 
-🧩 Platform Overview
+A centralized environment where users can **learn, practice, and track progress**.
 
-Pragati AI is structured around four core pillars:
+### Features include:
 
-1️⃣ Learning Hub
+- 📘 **Documents**
+  - AI-indexed PDFs
+  - Searchable via RAG
+- 🎥 **YouTube Lectures**
+  - Curated learning content
+- 🎓 **Courses**
+  - Beginner → Intermediate → Advanced
+- 🧠 **Notes & Flashcards**
+- 🛠 **Hands-On Practice**
+  - Coding Challenges
+  - Python Practice
+  - SQL Exercises (HackerRank-style)
 
-A centralized environment where users can learn, practice, and track progress.
+---
 
-Includes:
+## 2️⃣ Personalized Learning Paths
 
-📘 Documents (AI-indexed PDFs, searchable via RAG)
+Users can follow **role-based and skill-based learning journeys**.
 
-🎥 YouTube Lectures (curated learning content)
+### Example paths:
 
-🎓 Courses (Beginner → Advanced)
-
-🧠 Notes & Flashcards
-
-🛠 Hands-On Practice
-
-Coding Challenges
-
-Python Practice
-
-SQL Exercises (HackerRank-style)
-
-2️⃣ Personalized Learning Paths
-
-Users can follow role-based and skill-based learning journeys.
-
-Examples:
-
-Python Developer Path
-
-Machine Learning Engineer Path
-
-Data Scientist Path
-
-Automation Engineer Path
-
-Web Developer Path
+- Python Developer Path  
+- Machine Learning Engineer Path  
+- Data Scientist Path  
+- Automation Engineer Path  
+- Web Developer Path  
 
 Each path includes:
+- Skill breakdown
+- Estimated learning time
+- Progressive learning roadmap
 
-Skill breakdown
+---
 
-Estimated learning time
+## 3️⃣ AI Tutor
 
-Progressive roadmap
+An interactive **AI Tutor** that supports multiple learning modes:
 
-3️⃣ AI Tutor
-
-An interactive AI Tutor that supports multiple study modes:
-
-📖 Learn – Concept explanations
-
-🔍 Review – Revision & clarification
-
-🧪 Practice – Problem solving
-
-🤖 Tutor Mode – Conversational AI assistance
+- 📖 **Learn** – Concept explanations
+- 🔍 **Review** – Revision & clarification
+- 🧪 **Practice** – Problem solving
+- 🤖 **Tutor Mode** – Conversational AI assistance
 
 The tutor adapts responses based on:
+- User context
+- Learning mode
+- Previously uploaded documents (RAG)
 
-User context
+---
 
-Learning mode
+## 4️⃣ AI Agents & Automation
 
-Previously uploaded documents (RAG)
+Pragati AI enables users to **build, manage, and orchestrate AI agents**.
 
-4️⃣ AI Agents & Automation
+### Agent Capabilities:
 
-Pragati AI allows users to build and manage AI agents.
+- Customer Support Agent
+- Research Agent
+- Analyzer Agent
+- Scraper Agent
+- Trainee Agent
 
-Agent Capabilities:
+### Workflow Automation Features:
 
-Customer Support Agent
+- Manual / Webhook / Scheduled triggers
+- HTTP requests & API integrations
+- Email automation
+- Parallel workflows
+- Retry & failure handling
+- Execution logs & monitoring
 
-Research Agent
+This makes Pragati AI suitable for **real-world automation use cases**, not just learning.
 
-Analyzer Agent
+---
 
-Scraper Agent
+## 📂 File & Knowledge Management (RAG)
 
-Trainee Agent
+Pragati AI supports **document ingestion and AI indexing**:
 
-Workflow Automation Features:
-
-Manual / Webhook / Scheduled triggers
-
-HTTP requests & API integrations
-
-Email automation
-
-Parallel workflows
-
-Retry & failure handling
-
-Execution logs & monitoring
-
-This makes Pragati AI suitable for real-world automation use cases, not just learning.
-
-📂 File & Knowledge Management (RAG)
-
-Pragati AI supports document ingestion and AI indexing:
-
-Upload PDFs
-
-Extract text automatically
-
-Index content into vector stores
-
-Query documents using natural language
-
-Use documents inside AI Tutor responses
+- Upload PDFs
+- Automatic text extraction
+- Vector-based indexing
+- Natural language querying
+- Document-aware AI Tutor responses
 
 This enables:
+- AI-powered document understanding
+- Personalized knowledge bases
+- Learning directly from real-world content
 
-AI-powered document understanding
+---
 
-Personalized knowledge bases
+## 🔐 Authentication & Security
 
-Learning directly from real content
+Pragati AI provides **multiple secure authentication options**:
 
-🔐 Authentication & Security
+- ✅ Email + Password
+- ✅ OTP-based login
+- ✅ Google OAuth
+- ✅ GitHub OAuth
+- ✅ LinkedIn OAuth
 
-Pragati AI provides multiple secure authentication options:
+### Security Features:
 
-✅ Email + Password
+- Password change
+- Session control
+- Logout from device
+- Account & preference management
 
-✅ OTP-based login
+---
 
-✅ Google OAuth
-
-✅ GitHub OAuth
-
-✅ LinkedIn OAuth
-
-Security Features:
-
-Password change
-
-Session control
-
-Logout from device
-
-Account & preference management
-
-👤 User Profile & Settings
+## 👤 User Profile & Settings
 
 Users can manage:
 
-Profile details
+- Profile details
+- Achievements
+- Learning progress
+- Preferences
+- Subscription status
+- Security & sessions
+- Notifications
+- Account settings
 
-Achievements
+Designed with an **enterprise-grade UX mindset**.
 
-Learning progress
+---
 
-Preferences
-
-Subscription status
-
-Security & sessions
-
-Notifications
-
-Account settings
-
-Designed with an enterprise-grade UX mindset.
-
-🧠 Who Is This Platform For?
+## 🧠 Who Is This Platform For?
 
 Pragati AI is ideal for:
 
-Students learning AI, ML, and programming
+- Students learning AI, ML, and programming
+- Developers practicing real-world skills
+- Professionals upskilling for ML, DS, DevOps roles
+- Learners who prefer AI-assisted education
+- Builders creating workflows & automations
+- Anyone who wants **learning + AI tools in one place**
 
-Developers practicing real skills
+---
 
-Professionals upskilling for roles (ML, DS, DevOps)
+## 🛠️ Technology Stack
 
-Learners who prefer AI-assisted education
+### Frontend
+- **React.js** – Component-based UI development
+- **Tailwind CSS** – Utility-first styling for modern, responsive design
+- **Vite** – Fast development server and optimized build tool
 
-Builders creating workflows & automations
+### Backend
+- **Python** – Core backend logic and API development
+- Modular service-oriented architecture
+- Authentication & authorization services
 
-Anyone wanting learning + AI tools in one place
+### AI / ML
+- **Large Language Models (LLMs)**
+- **Retrieval-Augmented Generation (RAG)**
+- Context-aware AI tutoring
+- Agent-based orchestration
+- Vector indexing (FAISS or similar)
 
-🛠️ Technology Stack (Inferred)
+---
 
-Frontend
+## 📌 Project Vision
 
-React + TypeScript
+Pragati AI is not just a learning platform —  
+it is a **foundation for AI-native education and automation**.
 
-Modern component-based UI
+### Future expansion possibilities:
 
-Responsive, dashboard-driven design
+- Multi-tenant SaaS deployment
+- Enterprise knowledge bases
+- Custom agent marketplaces
+- Advanced analytics & recommendations
+- Cloud-native scaling
 
-Backend
+---
 
-Python-based API
+## 📸 Screenshots
 
-Modular service architecture
+This repository includes application screenshots showcasing:
 
-RAG pipelines
+- Learning Hub
+- AI Tutor
+- AI Agents
+- Automation workflows
+- File ingestion & RAG
+- Authentication flows
+- User profile & settings
 
-FAISS / Vector indexing
+---
 
-Authentication services
+## 🧑‍💻 Author
 
-AI / ML
+**Jayesh Patil**  
+AI Engineer | Data Scientist | Full-Stack AI Developer  
 
-LLM-powered responses
+- GitHub: https://github.com/jayesh-patil123
 
-Retrieval-Augmented Generation (RAG)
+---
 
-Context-aware tutoring
+## 📄 License
 
-Agent-based orchestration
-
-📌 Project Vision
-
-Pragati AI is not just a learning platform — it is a foundation for AI-native education and automation.
-
-Future expansion can include:
-
-Multi-tenant SaaS deployment
-
-Enterprise knowledge bases
-
-Custom agent marketplaces
-
-Advanced analytics & recommendations
-
-Cloud-native scaling
-
-📸 Screenshots
-
-Full application screenshots are included in this repository to demonstrate:
-
-Learning Hub
-
-AI Tutor
-
-Agents
-
-Automation workflows
-
-File ingestion & RAG
-
-Authentication flows
-
-User profile & settings
-
-🧑‍💻 Author
-
-Jayesh Patil
-AI Engineer | Data Scientist | Full-Stack AI Developer
-GitHub: https://github.com/jayesh-patil123
-
-📄 License
-
-This project is currently shared for demonstration and portfolio purposes.
+This project is currently shared for **demonstration and portfolio purposes**.  
 License details can be added based on future distribution plans.
